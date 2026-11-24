@@ -1,0 +1,8 @@
+{
+  "name": "GigKids",
+  "description": "Stop paying for chores. Offer gigs instead — a family gig marketplace and Indian Rupee (₹) money-skills workspace for kids and parents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
